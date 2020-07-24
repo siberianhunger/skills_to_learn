@@ -1,0 +1,112 @@
+BASE!
+    ---
+    dns - what is?
+    hosts file - for dns properties
+    http https  - configure https on ngnix
+    http requests and responces
+    http requests fields - try it in telnet
+    coockies - backend/ js frontend
+    authentification/authorization what's the difference?
+
+    understanding of low level mechanisms outside framework:
+        orm
+        session
+        authentification/authorization
+
+        review Django/Flask realization
+
+    html/css
+        flex-box's
+        float's
+        media-querries
+
+    javascript
+        browser api's for css properties
+        ajax queries
+        asynchronous js
+    ---
+
+PYTHON BACKEND! - learn it deep!!!
+    syntax - learn it deep!
+        tuples, sets, lists, dicts - convert one to another, know the differences
+        slices
+        string formating
+        classes, objects
+        function Positional and Keyword Arguments (args, keyword args)
+        functional programming! lambda, map, reduce, zip
+        generators, decorators, exceptions
+        asynchronous PYTHON! multiprocessing, threads - ASYNCIO, AIOHTTP
+
+    standart library
+        text/csv file editing
+        interaction with command line arguments
+        packet collections, default dict, iter tools
+        REGEX!
+        logging!
+        pickle dump, json
+        date
+            convert to date format from string
+            time zones
+            pytz library
+
+    third-party libraries
+        requests
+        aiohttp
+        excel
+        pdf
+        xml
+        html - beautiful soup
+        celery/redis
+
+FRAMEWORKS!
+    Django - MUST HAVE!!!
+        project creation / app creation
+        models / migrations
+        routes / controllers (views in django)
+        test's
+        django orm
+        templates
+        project structure knowledge - buisness logic can't be realised in views!
+        Django admin configuration!
+        users, authorization/authentification, management commands
+
+        Django REST framework - seems optional
+
+    Flask - micro framework
+    Tornado - not a good idea
+    AioHttp - better learn instead of Tornado
+
+CODE QUALITY!
+    naming:
+        KISS - keep it simple stupid,
+        DRY - don't repeat yourself,
+        OOP - object oriented programming,
+        SOLID,
+        main programming patterns (decorators for example)
+        Clean Code - Robert Martin
+
+TESTING!
+    TDD, BDD, etc.
+    IDE - pycharm...
+    code debugging with PDB or with your IDE
+    GIT - basic knowledge
+        commit, pull, create and manage branches, merge branches!
+    Chrome DEV TOOLS - DOM tree, js, network tracking
+    linux basic knowledge
+
+SQL & RELATIONAL DATABASES!
+    postgreSQL
+        installation/configuration
+        base creation - tables(fields rows)
+        sql queries( advanced stuff, not like SELECT 2+2, but with several joins on several tables)
+        indexes - minimal configuration !!!
+            foreign keys!
+        normalization / denormalization
+
+LINUX
+    hard-core terminal skills
+    minimal DevOps skills - configure empty server for your purposes
+    Docker
+    CI/CD - continuous integration/continuous dilivery (deployment)
+
+
