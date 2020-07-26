@@ -78,10 +78,15 @@ FRAMEWORKS!
 
 CODE QUALITY!
     naming:
-        KISS - keep it simple stupid,
-        DRY - don't repeat yourself,
-        OOP - object oriented programming,
-        SOLID,
+        KISS - keep it simple stupid
+        DRY - don't repeat yourself
+        OOP - object oriented programming
+        SOLID
+            Single-responsibility principle
+            Open–closed principle
+            Liskov substitution principle
+            Interface segregation principle
+            Dependency inversion principle
         main programming patterns (decorators for example)
         Clean Code - Robert Martin
 
